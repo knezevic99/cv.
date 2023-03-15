@@ -1,0 +1,13 @@
+body{
+    background-color:#C9EEFF ;
+}
+.slika{
+    width: 150px;
+    height: 150px;
+}
+hr{
+    border-style:dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    width: 3%;
+}
